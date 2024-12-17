@@ -123,3 +123,6 @@ npm run dev
 
 Feel free to contribute or raise issues for improvements!
 
+## Layout
+**HomePage -without Auth**
+![alt text](image.png)
