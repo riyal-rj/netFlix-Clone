@@ -11,6 +11,7 @@ A full-stack MERN (MongoDB, Express, React, Node.js) Netflix Clone project.
 - [Folder Structure](#folder-structure)
 - [Learning Outcomes](#learning-outcomes)
 - [Author](#author)
+- [Layout](#layout)
 
 ## Overview
 This project is a Netflix Clone built using the MERN stack. It includes a frontend built with React and Tailwind CSS, and a backend using Express and MongoDB. The app supports user authentication, video streaming, and state management.
