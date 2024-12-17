@@ -126,3 +126,7 @@ Feel free to contribute or raise issues for improvements!
 ## Layout
 **HomePage -without Auth**
 ![alt text](image.png)
+**HomePage -with Auth**
+![alt text](image-1.png)
+
+![alt text](image-2.png)
