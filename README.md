@@ -56,7 +56,7 @@ This project is a Netflix Clone built using the MERN stack. It includes a fronte
 
 ### Clone the Repository:
 ```bash
-git clone (https://github.com/riyal-rj/netFlix-Clone.git)
+git clone https://github.com/riyal-rj/netFlix-Clone.git
 cd netflix-clone
 ```
 
